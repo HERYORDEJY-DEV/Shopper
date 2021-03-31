@@ -1,0 +1,12 @@
+{
+  "name": "Shopper",
+  "displayName": "Shopper",
+  "expo": {
+    "name": "Shopper",
+    "slug": "Shopper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
