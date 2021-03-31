@@ -21,4 +21,6 @@ target 'Shopper' do
   #  post_install do |installer|
   #    flipper_post_install(installer)
   #  end
+  pod 'RNImageCropPicker', :path => '../node_modules/react-native-image-crop-picker'
+
 end
