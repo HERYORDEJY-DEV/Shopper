@@ -1,0 +1,1799 @@
+/* Rating and Reviews  */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+/* Background */
+background: #F9F9F9;
+
+
+/* Rating block */
+
+position: absolute;
+width: 330px;
+height: 95px;
+left: 15px;
+top: 181px;
+
+
+
+/* 4.3 */
+
+position: absolute;
+width: 66px;
+height: 22px;
+left: 15px;
+top: 191px;
+
+font-family: Metropolis;
+font-size: 44px;
+line-height: 22px;
+/* identical to box height, or 50% */
+letter-spacing: -0.408px;
+
+/* Black */
+color: #222222;
+
+
+
+/* number of ratings */
+
+position: absolute;
+width: 67px;
+height: 8px;
+left: 16px;
+top: 229px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* Rating */
+
+position: absolute;
+width: 236px;
+height: 95px;
+left: 109px;
+top: 181px;
+
+
+
+/* 5 stars rating */
+
+position: absolute;
+width: 236px;
+height: 14px;
+left: 109px;
+top: 181px;
+
+
+
+/* rating line */
+
+position: absolute;
+width: 114px;
+height: 8px;
+left: 194px;
+top: 184px;
+
+/* Primary */
+background: #DB3022;
+border-radius: 4px;
+
+
+/* Rating 5 stars */
+
+position: absolute;
+width: 95px;
+height: 14px;
+left: 109px;
+top: 181px;
+
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 16px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 31px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 46px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 61px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Number */
+
+position: absolute;
+visibility: hidden;
+width: 18px;
+height: 8px;
+left: 77px;
+top: calc(50% - 8px/2 + 1px);
+
+font-family: Metropolis;
+font-size: 10px;
+line-height: 8px;
+/* identical to box height, or 80% */
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* people */
+
+position: absolute;
+width: 14px;
+height: 8px;
+left: 331px;
+top: 185px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Gray 2 */
+color: #4F4F4F;
+
+
+
+/* 4 stars rating */
+
+position: absolute;
+width: 219px;
+height: 14px;
+left: 125px;
+top: 201px;
+
+
+
+/* Star/activated */
+
+position: absolute;
+left: 44.8%;
+right: 52.31%;
+top: 25%;
+bottom: 73.77%;
+
+
+
+/* rating line */
+
+position: absolute;
+width: 40px;
+height: 8px;
+left: 194px;
+top: 204px;
+
+/* Primary */
+background: #DB3022;
+border-radius: 4px;
+
+
+/* stars */
+
+position: absolute;
+width: 60px;
+height: 14px;
+left: 125px;
+top: 201px;
+
+
+
+/* Star/activated */
+
+position: absolute;
+left: 41.33%;
+right: 54.93%;
+top: 24.75%;
+bottom: 73.52%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+left: 37.33%;
+right: 58.93%;
+top: 24.75%;
+bottom: 73.52%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+left: 33.33%;
+right: 62.93%;
+top: 24.75%;
+bottom: 73.52%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+left: 45.6%;
+right: 50.67%;
+top: 24.75%;
+bottom: 73.52%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* people */
+
+position: absolute;
+width: 9px;
+height: 8px;
+left: 335px;
+top: 205px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Gray 2 */
+color: #4F4F4F;
+
+
+
+/* 3 stars rating */
+
+position: absolute;
+width: 203px;
+height: 14px;
+left: 140px;
+top: 221px;
+
+
+
+/* stars */
+
+position: absolute;
+width: 45px;
+height: 14px;
+left: 140px;
+top: 221px;
+
+
+
+/* Star/activated */
+
+position: absolute;
+left: 45.6%;
+right: 50.67%;
+top: 27.22%;
+bottom: 71.06%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+left: 37.33%;
+right: 58.93%;
+top: 27.22%;
+bottom: 71.06%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+left: 41.33%;
+right: 54.93%;
+top: 27.22%;
+bottom: 71.06%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* rating line */
+
+position: absolute;
+width: 29px;
+height: 8px;
+left: 194px;
+top: 224px;
+
+/* Primary */
+background: #DB3022;
+border-radius: 4px;
+
+
+/* people */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 335px;
+top: 225px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Gray 2 */
+color: #4F4F4F;
+
+
+
+/* 2 stars rating */
+
+position: absolute;
+width: 190px;
+height: 14px;
+left: 155px;
+top: 241px;
+
+
+
+/* stars */
+
+position: absolute;
+width: 30px;
+height: 14px;
+left: 155px;
+top: 241px;
+
+
+
+/* Star/activated */
+
+position: absolute;
+left: 45.6%;
+right: 50.67%;
+top: 29.68%;
+bottom: 68.6%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+left: 41.33%;
+right: 54.93%;
+top: 29.68%;
+bottom: 68.6%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* rating line */
+
+position: absolute;
+width: 15px;
+height: 8px;
+left: 194px;
+top: 244px;
+
+/* Primary */
+background: #DB3022;
+border-radius: 4px;
+
+
+/* people */
+
+position: absolute;
+width: 9px;
+height: 8px;
+left: 336px;
+top: 245px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Gray 2 */
+color: #4F4F4F;
+
+
+
+/* 1 star rating */
+
+position: absolute;
+width: 174px;
+height: 14px;
+left: 170px;
+top: 262px;
+
+
+
+/* Star/activated */
+
+position: absolute;
+left: 45.33%;
+right: 50.93%;
+top: 32.27%;
+bottom: 66.01%;
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* rating line */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 194px;
+top: 265px;
+
+/* Primary */
+background: #DB3022;
+border-radius: 28px;
+
+
+/* people */
+
+position: absolute;
+width: 10px;
+height: 8px;
+left: 334px;
+top: 266px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Gray 2 */
+color: #4F4F4F;
+
+
+
+/* Reviews block */
+
+position: absolute;
+width: 327px;
+height: 723px;
+left: 16px;
+top: 309px;
+
+
+
+/* 8 reviews */
+
+position: absolute;
+width: 109px;
+height: 22px;
+left: 17px;
+top: 310px;
+
+font-family: Metropolis;
+font-size: 24px;
+line-height: 22px;
+/* identical to box height, or 92% */
+letter-spacing: -0.408px;
+
+/* Black */
+color: #222222;
+
+
+
+/* Checkbox/With text/Inactive */
+
+position: absolute;
+left: 63.2%;
+right: 20%;
+top: 38.05%;
+bottom: 59.36%;
+
+
+
+/* With photo */
+
+position: absolute;
+left: 52.38%;
+right: -71.43%;
+top: 0%;
+bottom: 0%;
+
+/* Description */
+font-family: Metropolis;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: -0.15px;
+
+/* Black */
+color: #222222;
+
+
+
+/* checkbox off */
+
+position: absolute;
+left: 0%;
+right: 68.25%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 68.25%;
+top: 0%;
+bottom: 4.76%;
+
+/* Gray */
+border: 2px solid #9B9B9B;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Review */
+
+position: absolute;
+width: 327px;
+height: 340px;
+left: 16px;
+top: 692px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 311px;
+height: 324px;
+left: 32px;
+top: 708px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+
+/* Rating */
+
+position: absolute;
+width: 95px;
+height: 14px;
+left: 54px;
+top: 748px;
+
+
+
+/* Number */
+
+position: absolute;
+visibility: hidden;
+width: 14px;
+height: 8px;
+left: 77px;
+top: calc(50% - 8px/2 + 1px);
+
+font-family: Metropolis;
+font-size: 10px;
+line-height: 8px;
+/* identical to box height, or 80% */
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 16px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 31px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 46px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/inactive */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2 + 20.5px);
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+/* Gray */
+border: 0.5px solid #9B9B9B;
+
+
+/* Date  */
+
+position: absolute;
+width: 67px;
+height: 7.57px;
+left: 256px;
+top: 753.69px;
+
+font-family: Metropolis;
+font-size: 11px;
+line-height: 8px;
+/* identical to box height, or 73% */
+text-align: right;
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* Avatar */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 16px;
+top: 692px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 16px;
+top: 692px;
+
+background: #C4C4C4;
+box-shadow: 0px 1px 16px rgba(0, 0, 0, 0.16);
+
+
+/* image */
+
+position: absolute;
+width: 40px;
+height: 60px;
+left: 13px;
+top: 684px;
+
+background: url(image.png);
+
+
+/* Review */
+
+position: absolute;
+width: 267px;
+height: 199px;
+left: 56px;
+top: 773px;
+
+/* Description */
+font-family: Metropolis;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.15px;
+
+/* Black */
+color: #222222;
+
+opacity: 0.8;
+
+
+/* Helpful button */
+
+position: absolute;
+width: 64px;
+height: 22.71px;
+left: 269px;
+top: 990.36px;
+
+
+
+/* Helpful */
+
+position: absolute;
+width: 37px;
+height: 13.25px;
+left: 269px;
+top: 998.88px;
+
+font-family: Metropolis;
+font-size: 11px;
+line-height: 125%;
+/* identical to box height, or 14px */
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* icon */
+
+position: absolute;
+width: 24px;
+height: 22.71px;
+left: 309px;
+top: 990.36px;
+
+background: #FFFFFF;
+
+
+/* thumb_up */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 6px;
+top: 6px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 6px;
+top: 6px;
+
+/* Gray */
+background: #9B9B9B;
+
+
+/* Path */
+
+position: absolute;
+width: 2.36px;
+height: 7.8px;
+left: 6px;
+top: 11.2px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 9.45px;
+height: 13px;
+left: 9.55px;
+top: 6px;
+
+background: #DADADA;
+
+
+/* Name */
+
+position: absolute;
+width: 96px;
+height: 7.57px;
+left: 56px;
+top: 731.75px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Black */
+color: #222222;
+
+
+
+/* Review */
+
+position: absolute;
+width: 327px;
+height: 313px;
+left: 16px;
+top: 360px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 311px;
+height: 297px;
+left: 32px;
+top: 376px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 25px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+
+/* Rating */
+
+position: absolute;
+width: 95px;
+height: 14px;
+left: 54px;
+top: 416px;
+
+
+
+/* Number */
+
+position: absolute;
+visibility: hidden;
+width: 14px;
+height: 8px;
+left: 77px;
+top: calc(50% - 8px/2 + 1px);
+
+font-family: Metropolis;
+font-size: 10px;
+line-height: 8px;
+/* identical to box height, or 80% */
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 16px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 31px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/activated */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 46px;
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+background: #FFBA49;
+
+
+/* Star/inactive */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2 + 20.5px);
+top: calc(50% - 14px/2);
+
+
+
+/* Star */
+
+position: absolute;
+left: 3.57%;
+right: 3.57%;
+top: 7.14%;
+bottom: 7.14%;
+
+/* Gray */
+border: 0.5px solid #9B9B9B;
+
+
+/* Date  */
+
+position: absolute;
+width: 67px;
+height: 7.57px;
+left: 256px;
+top: 421.69px;
+
+font-family: Metropolis;
+font-size: 11px;
+line-height: 8px;
+/* identical to box height, or 73% */
+text-align: right;
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* Avatar */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 16px;
+top: 360px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 16px;
+top: 360px;
+
+background: #C4C4C4;
+box-shadow: 0px 1px 16px rgba(0, 0, 0, 0.16);
+
+
+/* image */
+
+position: absolute;
+width: 40px;
+height: 60px;
+left: 13px;
+top: 352px;
+
+background: url(image.png);
+
+
+/* Review */
+
+position: absolute;
+width: 267px;
+height: 199px;
+left: 56px;
+top: 441px;
+
+/* Description */
+font-family: Metropolis;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.15px;
+
+/* Black */
+color: #222222;
+
+opacity: 0.8;
+
+
+/* Helpful button */
+
+position: absolute;
+width: 64px;
+height: 22.71px;
+left: 269px;
+top: 634.36px;
+
+
+
+/* Helpful */
+
+position: absolute;
+width: 37px;
+height: 13.25px;
+left: 269px;
+top: 642.88px;
+
+font-family: Metropolis;
+font-size: 11px;
+line-height: 125%;
+/* identical to box height, or 14px */
+
+/* Gray */
+color: #9B9B9B;
+
+
+
+/* icon */
+
+position: absolute;
+width: 24px;
+height: 22.71px;
+left: 309px;
+top: 634.36px;
+
+
+
+/* thumb_up */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 6px;
+top: 6px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 6px;
+top: 6px;
+
+/* Gray */
+background: #9B9B9B;
+
+
+/* Path */
+
+position: absolute;
+width: 2.36px;
+height: 7.8px;
+left: 6px;
+top: 11.2px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 9.45px;
+height: 13px;
+left: 9.55px;
+top: 6px;
+
+background: #DADADA;
+
+
+/* Name */
+
+position: absolute;
+width: 96px;
+height: 7.57px;
+left: 56px;
+top: 399.75px;
+
+font-family: Metropolis;
+font-size: 14px;
+line-height: 8px;
+/* identical to box height, or 57% */
+
+/* Black */
+color: #222222;
+
+
+
+/* Home Indicator On Light */
+
+position: absolute;
+width: 375px;
+height: 34px;
+left: -1px;
+top: 778px;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 32.27%;
+right: 32%;
+top: 58.82%;
+bottom: 26.47%;
+
+background: #000000;
+border-radius: 100px;
+
+
+/* Write a review */
+
+position: absolute;
+width: 375px;
+height: 121px;
+left: 0px;
+top: 657px;
+
+
+
+/* blur */
+
+position: absolute;
+width: 375px;
+height: 121px;
+left: 0px;
+top: 657px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.22) 0%, #FFFFFF 77.6%);
+
+
+/* Button/Review/Inactive */
+
+position: absolute;
+left: 61.33%;
+right: 4.53%;
+top: 90.15%;
+bottom: 5.42%;
+
+
+
+/* bg */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary */
+background: #DB3022;
+box-shadow: 0px 4px 8px rgba(211, 38, 38, 0.25);
+border-radius: 25px;
+
+
+/* icon */
+
+position: absolute;
+left: 6.25%;
+right: 75%;
+top: 16.67%;
+bottom: 16.67%;
+
+
+
+/* create */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 6px;
+top: 6px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 6px;
+top: 6px;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 10.69px;
+height: 10.69px;
+left: 6px;
+top: 8.31px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 4.24px;
+height: 4.24px;
+left: 14.76px;
+top: 6px;
+
+background: #DADADA;
+
+
+/* Write a review */
+
+position: absolute;
+left: 28.12%;
+right: 7.03%;
+top: 41.67%;
+bottom: 33.33%;
+
+font-family: Metropolis;
+font-size: 11px;
+line-height: 8px;
+/* or 73% */
+
+color: #FFFFFF;
+
+
+
+/* Navigation Bar/Big headline */
+
+position: absolute;
+width: 375px;
+height: 140px;
+left: 0px;
+top: 0px;
+
+
+
+/* Headline */
+
+position: absolute;
+width: 270px;
+height: 34px;
+left: 14px;
+top: 106px;
+
+font-family: Metropolis;
+font-size: 34px;
+line-height: 34px;
+/* identical to box height */
+
+/* Black */
+color: #222222;
+
+
+
+/* Navigation Bar */
+
+position: absolute;
+width: 375px;
+height: 88px;
+left: 0px;
+top: 0px;
+
+
+
+/* Status Bar On Light */
+
+position: absolute;
+height: 44px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+
+
+/* Battery */
+
+position: absolute;
+left: 89.6%;
+right: 3.91%;
+top: 39.39%;
+bottom: 34.85%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 89.6%;
+right: 4.53%;
+top: 39.39%;
+bottom: 34.85%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 95.73%;
+right: 3.91%;
+top: 47.73%;
+bottom: 43.18%;
+
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 90.13%;
+right: 5.07%;
+top: 43.94%;
+bottom: 39.39%;
+
+background: #000000;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 84.18%;
+right: 11.74%;
+top: 39.39%;
+bottom: 35.69%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.18%;
+right: 11.74%;
+top: 39.39%;
+bottom: 49.83%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.9%;
+right: 12.45%;
+top: 48.01%;
+bottom: 43.73%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 85.6%;
+right: 13.16%;
+top: 56.64%;
+bottom: 35.69%;
+
+background: #DADADA;
+
+
+/* Mobile Signal */
+
+position: absolute;
+left: 78.31%;
+right: 17.16%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 78.31%;
+right: 20.89%;
+top: 55.3%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 79.56%;
+right: 19.64%;
+top: 50.76%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 80.8%;
+right: 18.4%;
+top: 45.45%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 82.04%;
+right: 17.16%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Time Style */
+
+position: absolute;
+left: 5.6%;
+right: 80%;
+top: 27.27%;
+bottom: 25%;
+
+
+
+/* 9:41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 9.52%;
+bottom: 4.76%;
+
+font-family: SF Pro Text;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Left Action */
+
+position: absolute;
+height: 44px;
+left: 0%;
+right: 0%;
+top: 44px;
+
+
+
+/* icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Chevron */
+
+position: absolute;
+width: 9.26px;
+height: 16px;
+left: 7px;
+top: 4px;
+
+/* Black */
+background: #222222;

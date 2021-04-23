@@ -1,0 +1,10 @@
+export const PrimaryColor: string = '#DB3022';
+export const BlackColor: string = '#000000';
+export const WhiteColor: string = '#FFFFFF';
+export const BackgroundColor: string = '#F9F9F9';
+export const ErrorColor: string = '#F01F0E';
+export const SuccessColor: string = '#2AA952';
+export const SaleHotColor: string = '#DB3022';
+export const GrayColor: string = '#9B9B9B';
+export const StarColor: string = '#FFBA49';
+export const NavIconColor: string = '#222222';
